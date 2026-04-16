@@ -1,1 +1,2 @@
 # ScamSlayer
+A real-time phishing detection tool built at Cal Poly Pomona's BroncoHacks 2024 hackathon. Uses the OpenAI API as a multi-factor decision engine to analyze URLs, email headers, and message content against common phishing indicators — including sender spoofing, homoglyph domains, social engineering language, and mismatched anchor text. Outputs a quantified malicious confidence score alongside per-indicator reasoning breakdowns via a Tkinter desktop UI.
